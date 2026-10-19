@@ -1,0 +1,25 @@
+{
+  "name": "sailsconf-2026",
+  "version": "1.0.0",
+  "description": "Sailsconf 2026 tracks, speakers, talks, dates, and location.",
+  "author": "Olabode Lawal-Shittabey <babblebey.dev>",
+  "main": "index.js",
+  "exports": "./index.js",
+  "files": [
+    "index.js",
+    "data/sailsconf-2026.json"
+  ],
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": ["sailsconf", "sails", "conference", "2026"],
+  "license": "ISC",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/babblebey/sailsconf-2026.git"
+  }
+}

@@ -1,0 +1,252 @@
+{
+  "name": "Sailsconf 2026",
+  "sourceUrl": "https://sailsconf.com/2026",
+  "retrievedOn": "2026-10-19",
+  "dateTime": {
+    "startDate": "2026-10-22",
+    "endDate": "2026-10-24",
+    "startsAt": "2026-10-22T09:30:00+01:00",
+    "endsAt": null,
+    "timeZone": "Africa/Lagos"
+  },
+  "location": {
+    "type": "online",
+    "name": "Online",
+    "venue": null,
+    "streamUrl": null
+  },
+  "schedule": {
+    "status": "not_published",
+    "note": "Session times and the downloadable schedule have not yet been published. The conference start time is published, but the end time and individual session times are unknown."
+  },
+  "speakers": [
+    {
+      "id": "marvellous-nwaokobia",
+      "name": "Marvellous Nwaokobia",
+      "role": "Founder",
+      "organization": "Valor",
+      "talk": {
+        "title": "From Browser to Battlefield: Building a Competitive FPS on the Web",
+        "track": "Web Development",
+        "isKeynote": false,
+        "startsAt": null
+      }
+    },
+    {
+      "id": "adebesin-tolulope",
+      "name": "Adebesin Tolulope",
+      "role": "Maintainer",
+      "organization": "Chakraverse (Chakra UI, Ark UI & Panda CSS)",
+      "talk": {
+        "title": "Rebuilding Panda's Engine: Rust, WebAssembly, and 37\u00d7 Faster Extraction",
+        "track": "Open Source",
+        "isKeynote": false,
+        "startsAt": null
+      }
+    },
+    {
+      "id": "kelvin-omereshone",
+      "name": "Kelvin Omereshone",
+      "role": "Lead maintainer, Sails.js & Creator of The Boring JavaScript Stack",
+      "organization": "The Sailscasts Company",
+      "talk": {
+        "title": "State of Sails 2026",
+        "track": "Web Development",
+        "isKeynote": true,
+        "startsAt": null
+      }
+    },
+    {
+      "id": "tobiloba-adedeji",
+      "name": "Tobiloba Adedeji",
+      "role": "Senior Software Engineeer",
+      "organization": "BOH AI",
+      "talk": {
+        "title": "Your Agent Is Not Stupid. Your Harness Is.",
+        "track": "AI",
+        "isKeynote": false,
+        "startsAt": null
+      }
+    },
+    {
+      "id": "uchi-uchibeke",
+      "name": "Uchi Uchibeke",
+      "role": "Founder",
+      "organization": "APort",
+      "talk": {
+        "title": "Building the next Trillion Agents: Agent Authorization",
+        "track": "AI",
+        "isKeynote": false,
+        "startsAt": null
+      }
+    },
+    {
+      "id": "damilare-bakare",
+      "name": "Damilare Bakare",
+      "role": "Software Engineer I Building BethelFlow",
+      "organization": null,
+      "talk": {
+        "title": "Prompt Injection Is a Test Case: How to Break AI Features Before Users Do",
+        "track": "AI",
+        "isKeynote": false,
+        "startsAt": null
+      }
+    },
+    {
+      "id": "zaheer-alexander-williams",
+      "name": "Zaheer Alexander Williams",
+      "role": "Founding Engineer \u00b7 AI System Architect",
+      "organization": "Launchverse | Helix",
+      "talk": {
+        "title": "Autonomous AI Engineers: From Copilot to Colleague",
+        "track": "AI",
+        "isKeynote": false,
+        "startsAt": null
+      }
+    },
+    {
+      "id": "chinedu-okere",
+      "name": "Chinedu Okere",
+      "role": "Senior AI & Fullstack Engineer",
+      "organization": "SmartFarmAI",
+      "talk": {
+        "title": "Node in the Cloud, Rust on the Edge: Building IoT as a Web Dev",
+        "track": "Web Development",
+        "isKeynote": false,
+        "startsAt": null
+      }
+    },
+    {
+      "id": "olabode-lawal-shittabey",
+      "name": "Olabode Lawal-Shittabey",
+      "role": "Software Engineer & Core Maintainer",
+      "organization": "Semantic Release",
+      "talk": {
+        "title": "Kill the Static Secret: How OIDC Secures the Software Supply Chain",
+        "track": "Open Source",
+        "isKeynote": false,
+        "startsAt": null
+      }
+    },
+    {
+      "id": "mary-ojo",
+      "name": "Mary Ojo",
+      "role": "Software Engineer",
+      "organization": null,
+      "talk": {
+        "title": "Make It Smarter: Using AI to Build Better Product Experiences",
+        "track": "AI",
+        "isKeynote": false,
+        "startsAt": null
+      }
+    },
+    {
+      "id": "utee-akaninyene",
+      "name": "Utee Akaninyene",
+      "role": "Technical Lead",
+      "organization": "Xavier Paisley Limited",
+      "talk": {
+        "title": "Two Seconds to Two Milliseconds: What Memory Actually Costs You",
+        "track": "Web Development",
+        "isKeynote": false,
+        "startsAt": null
+      }
+    },
+    {
+      "id": "david-okononfua",
+      "name": "David Okononfua",
+      "role": "Software Engineer",
+      "organization": "Dockie AI",
+      "talk": {
+        "title": "The Human in the Loop: Designing Approval-Based AI Systems",
+        "track": "AI",
+        "isKeynote": false,
+        "startsAt": null
+      }
+    },
+    {
+      "id": "oluwafemi-shobande",
+      "name": "Oluwafemi Shobande",
+      "role": "Creator of Aiki",
+      "organization": null,
+      "talk": {
+        "title": "Polling Is a Backstop, Not a Clock - Building high precision durable timers",
+        "track": "Open Source",
+        "isKeynote": false,
+        "startsAt": null
+      }
+    },
+    {
+      "id": "jilles-soeters",
+      "name": "Jilles Soeters",
+      "role": "Senior Developer Educator",
+      "organization": "Cloudflare",
+      "talk": {
+        "title": "Building Durable Agents with Flue",
+        "track": "AI",
+        "isKeynote": false,
+        "startsAt": null
+      }
+    },
+    {
+      "id": "emmanuel-onyeka-eboh",
+      "name": "Emmanuel Onyeka Eboh (CapEO)",
+      "role": "Lead Engineer",
+      "organization": null,
+      "talk": {
+        "title": "Your agent is a payments system: idempotency, retries and replay for tool calls",
+        "track": "AI",
+        "isKeynote": false,
+        "startsAt": null
+      }
+    },
+    {
+      "id": "tony-edgal",
+      "name": "Tony Edgal",
+      "role": "Senior Frontend Engineer",
+      "organization": "spaceman.sh",
+      "talk": {
+        "title": "Building E2E Systems with AI: Lessons on System Design from a Frontend Engineer",
+        "track": "Web Development",
+        "isKeynote": false,
+        "startsAt": null
+      }
+    },
+    {
+      "id": "peter-awotundun",
+      "name": "Peter Awotundun",
+      "role": "Software Engineer",
+      "organization": "Sendly AI",
+      "talk": {
+        "title": "Email Infrastructure at Scale: What Actually Breaks",
+        "track": "Web Development",
+        "isKeynote": false,
+        "startsAt": null
+      }
+    },
+    {
+      "id": "caleb-adewole",
+      "name": "Caleb Adewole",
+      "role": "Backend Engineer",
+      "organization": "Cudium",
+      "talk": {
+        "title": "Improving Payment Support With Sails Search For Cudium",
+        "track": "FinTech Engineering",
+        "isKeynote": false,
+        "startsAt": null
+      }
+    },
+    {
+      "id": "vision-onyeaku",
+      "name": "Vision Onyeaku",
+      "role": "Senior Software Engineer",
+      "organization": "Rip Technologies",
+      "talk": {
+        "title": "TypeScript on the Factory Floor",
+        "track": "Open Source",
+        "isKeynote": false,
+        "startsAt": null
+      }
+    }
+  ]
+}
