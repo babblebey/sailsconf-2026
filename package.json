@@ -1,6 +1,6 @@
 {
   "name": "sailsconf-2026",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Sailsconf 2026 tracks, speakers, talks, dates, and location.",
   "author": "Olabode Lawal-Shittabey <babblebey.dev>",
   "main": "index.js",
